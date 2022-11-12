@@ -1,0 +1,10 @@
+{
+  "title": {
+    "pt": "Título em português",
+    "en": "Title in english"
+  },
+  "paragraph": {
+    "pt": "Parágrafo em português.",
+    "en": "Paragraph in english."
+  }
+}
